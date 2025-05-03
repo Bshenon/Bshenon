@@ -1,16 +1,24 @@
-## Hi there 👋
+Hi there 👋 I'm Shenon
 
-<!--
-**Bshenon/Bshenon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm an aspiring software developer currently learning computer science and working towards building real-world skills.
 
-Here are some ideas to get you started:
+🚀 I'm passionate about:
+- Web development
+- Automation & scripting
+- Application creation 
+- python scripts
+- Anything with a computer in it 😉
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Tech Stack:
+- Languages: Python, JavaScript, HTML/CSS
+- Tools: Git, GitHub, VS Code, Linux 
+
+
+🌱 Currently learning more about:
+- Building full-stack web apps
+- Hosting projects on the cloud (Azure & GitHub Pages)
+- Open-source contributions
+
+📫 Reach me at:
+- LinkedIn: Shennon Eneshka Batcho
+- Email:  shenonbatcho3@gmail.com
