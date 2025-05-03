@@ -1,24 +1,49 @@
-Hi there 👋 I'm Shenon
+<h1 align="center">Hi 👋, I'm Shenon Batcho</h1>
+<p align="center">| 💻 Self-taught Developer | 🌐 Tech Explorer |  </p>
 
-🎓 I'm an aspiring software developer currently learning computer science and working towards building real-world skills.
+---
 
-🚀 I'm passionate about:
-- Web development
-- Automation & scripting
-- Application creation 
-- python scripts
-- Anything with a computer in it 😉
+### 🙋‍♂️ About Me
+- 🎓 I'm a CS student with a deep passion for building cool things with code
+- 🌱 Currently reading my Bachelors in Information and Technology in Southern cross University
+- 🛠️ I spend my nights exploring GitHub repos, coding small tools, reading docs and diving into subreddits 
+- 🎯 My goal: To turn curiosity into craft , as someone who builds tools that empower millions.
 
-🛠️ Tech Stack:
-- Languages: Python, JavaScript, HTML/CSS
-- Tools: Git, GitHub, VS Code, Linux 
+---
+
+### 💼 Tech Stack
+**Languages:**  
+`Python` `JavaScript` `HTML/CSS` `C++ (a bit)`
+
+**Frameworks & Tools:**  
+`Git` `GitHub` `Flask` `Node.js ( Learning....) ` `VS Code` `Linux` `Azure (learning...)`
+
+**What I’m Learning Now:**  
+`React` `Firebase` `Networking Basics``Node.js` `Azure `
 
 
-🌱 Currently learning more about:
-- Building full-stack web apps
-- Hosting projects on the cloud (Azure & GitHub Pages)
-- Open-source contributions
+---
 
-📫 Reach me at:
-- LinkedIn: Shennon Eneshka Batcho
-- Email:  shenonbatcho3@gmail.com
+### 📌 Highlight Projects (coming soon...)
+- 🧠 **Mini AI Chatbot** — basic NLP with Python (WIP)
+- 🛠️ **Portfolio Website** — fully responsive site with HTML/CSS + JS
+- ⚙️ **Simple Task Tracker** — Flask app to manage tasks + deadlines
+- 🌍 **Weather Web App** — uses a public API to show real-time weather
+
+> *Each project will have clean code, clear README, and maybe even a blog explaining what I learned*
+
+---
+
+### 📫 Let’s Connect
+- 📧 Email: shenonbatcho3@gmail.com
+- 🔗 LinkedIn: Shennon Eneshka Batcho
+- 🌐 Portfolio: Coming soon 
+
+---
+
+### 🧠 Fun Facts
+- I love breaking code just to see how it works 😂
+
+---
+
+_“If theres a will, theres a way  ~ Tremelo Batcho ( Dad) .”_
