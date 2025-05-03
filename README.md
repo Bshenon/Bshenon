@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shenon Batcho</h1>
+<h1 align="center">Hi, I'm Shenon Batcho</h1>
 <p align="center">| 💻 Self-taught Developer | 🌐 Tech Explorer |  </p>
 
 ---
