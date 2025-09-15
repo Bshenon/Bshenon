@@ -13,7 +13,7 @@
 
 ### 💼 Tech Stack
 **Languages:**  
-`Python` `JavaScript` `HTML/CSS` `C++ (a bit)`
+`Python` `JavaScript` `HTML/CSS` `C++ ( learning....)`
 
 **Frameworks & Tools:**  
 `Git` `GitHub` `Flask` `Node.js ( Learning....) ` `VS Code` `Linux` `Azure (learning...)`
